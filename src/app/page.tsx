@@ -12,7 +12,7 @@ export default function Home() {
       <div className="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8">
           <h1 className="fade-in-up text-4xl font-bold tracking-tight text-foreground sm:text-6xl">
-            Aishyyyy 
+            Aishyyy
           </h1>
           <p className="fade-in-up animation-delay-200 mt-6 text-lg leading-8 text-primary font-semibold">
             Jaggu ki Lover | CSE Undergrad | Building real-world web solutions
