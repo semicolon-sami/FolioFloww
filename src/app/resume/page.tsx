@@ -13,9 +13,9 @@ export const metadata: Metadata = {
 };
 
 const iconMap = {
-  LinkedIn,
-  GitHub,
-  Email: Mail,
+  'LinkedIn': Linkedin,
+  'GitHub': Github,
+  'Email': Mail,
 };
 
 export default function ResumePage() {
